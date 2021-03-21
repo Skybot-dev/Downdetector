@@ -1,0 +1,12 @@
+{
+  "name": "Downdetector",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Skybot-dev/Downdetector.git",
+  "author": "lolieg <marvinlohmar123456789@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
