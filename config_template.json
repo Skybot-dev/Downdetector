@@ -1,0 +1,12 @@
+{
+    "downdetector":
+        {
+            "token" : "",
+            "message" : []
+        },
+    "skybot" : 
+        {
+            "id" : 0,
+            "token" : ""
+        }
+}
