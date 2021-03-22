@@ -12,7 +12,7 @@ skybot.on('ready', () => {
   });
 
 downdetector.on('presenceUpdate', async (oldPresence, newPresence) => {
-    if (newPresence.userID === '201686355493912576' && newPresence.status === 'offline') {
+    if (newPresence.userID === '630106665387032576' && newPresence.status === 'offline') {
         guild = downdetector.guilds.cache.get('636937988248436736')
         channel = guild.channels.cache.get('823219739572437052')
         await channel.send('Skybot is offline <@&667609814079111226>')
